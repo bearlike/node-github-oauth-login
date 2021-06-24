@@ -1,0 +1,19 @@
+{
+    "name": "github-login",
+    "version": "1.0.0",
+    "description": "oAuth demo login with GitHub.",
+    "author": "Krishnakanth Alagiri <krishna.alagiri03@gmail.com> (https://thekrishn.in/)",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "dotenv": "^9.0.2",
+        "express": "^4.17.1",
+        "express-session": "^1.17.2",
+        "nodemon": "^2.0.7",
+        "randomstring": "^1.2.1"
+    }
+}

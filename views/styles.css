@@ -1,0 +1,17 @@
+#github-button {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -100px;
+    margin-top: -1em;
+}
+
+.gh-btn {
+    background-color: transparent;
+    border: 1px solid #333333;
+}
+
+.gh-btn:hover {
+    background-color: #111111;
+    color: #fff;
+}
